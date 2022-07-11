@@ -1,0 +1,7 @@
+Harry Potter,JK Rowling,0, 100 
+Start with Why,Simon Sinek,8, 100 
+Programming with Python,John Smith,16, 100 
+You can win,Jeet Aapki,14,100 
+Deep Work,Cal NewPort,2, 100 
+Java How to program,Paul Deitel,14, 100 
+Atomic Habits, James Clear,15, 100
